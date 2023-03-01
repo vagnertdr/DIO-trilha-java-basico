@@ -1,5 +1,7 @@
+import java.util.Date;
+
 public class TiposVariaveis {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+  String nome = "Vagner Rocha";
+  int idade = 24;
+  Date data = new Date();
 }
